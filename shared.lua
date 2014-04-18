@@ -23,7 +23,7 @@ if CLIENT then
 end
 
 C4_WIRE_COUNT   = 6
-C4_MINIMUM_TIME = 45
+C4_MINIMUM_TIME = 60
 C4_MAXIMUM_TIME = 600
 
 ENT.Type = "anim"
