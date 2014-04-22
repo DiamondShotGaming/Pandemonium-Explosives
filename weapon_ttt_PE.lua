@@ -10,7 +10,7 @@ if CLIENT then
 
    SWEP.EquipMenuData = {
       type  = "item_weapon",
-      name  = "C4",
+      name  = "Pandemonium Explosives",
       desc  = "c4_desc"
    };
 
